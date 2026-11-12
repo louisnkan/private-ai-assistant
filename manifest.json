@@ -1,0 +1,26 @@
+
+{
+  "name": "AI Chat Assistant",
+  "short_name": "AI Assistant",
+  "description": "A mobile AI chat assistant with voice responses.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#202123",
+  "theme_color": "#202123",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
